@@ -1,0 +1,42 @@
+* {
+    font-family: 'Nunito', sans-serif;
+    color: white;
+}
+
+body{
+    background-color: #1F1F1F;
+}
+
+.hidden {
+	visibility: none;
+}
+
+fieldset {
+	padding: 20px 20px 20px 20px;
+	margin: 20px;
+}
+
+#searchString{
+    color:black;
+}
+
+#prev, #next {
+	visibility: hidden;
+}
+
+a {
+	text-decoration: none;
+}
+
+.button {
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
